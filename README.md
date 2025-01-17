@@ -18,9 +18,9 @@ Let's explore the mysterious marine world!
 
 ## Dataset
 
-| Name  | Task | Source  |
+| Name  | Task | Source |
 |:------------------------|:---------------------|:---------------------|
-| [Multiscale Dense-GAN](https://ieeexplore.ieee.org/abstract/document/8730425)  | Residual multiscale dense block as generator | |
+| Underwater Image Enhancement Benchmark  | Underwater Optical Image Enhancement | [UIEB](https://li-chongyi.github.io/proj_benchmark.html) |
 
 ## Survey
 
