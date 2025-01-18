@@ -1,5 +1,5 @@
-# Awesome-Underwater-Images-Paper-List [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-A list of papers related to underwater images, inspired by [Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC/).
+# Awesome-Underwater-Imagery-Paper-List [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+A list of papers related to underwater imagery, inspired by [Awesome-3D-AIGC](https://github.com/mdyao/Awesome-3D-AIGC/).
 
 If you want to contribute to this repo, please send a pull request.
 
