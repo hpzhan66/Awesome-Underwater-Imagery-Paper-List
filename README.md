@@ -23,8 +23,12 @@ Let's explore the mysterious marine world!
 | Underwater Image Enhancement Benchmark  | Underwater Optical Image Enhancement | [UIEB](https://li-chongyi.github.io/proj_benchmark.html) |
 | Large-Scale Underwater Image Dataset  | Underwater Optical Image Enhancement | [LSUI](https://lintaopeng.github.io/code/) |
 | Enhancing Underwater Visual Perception  | Underwater Optical Image Enhancement | [EUVP](https://irvlab.cs.umn.edu/resources/euvp-dataset) |
+| Realworld-Underwater-Image-Enhancement-RUIE-Benchmark | Underwater Optical Image Enhancement | [RUIE](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark) |
+| Underwater Video Enhancement Benchmark  | Underwater Video Enhancement | [UVEB](https://github.com/yzbouc/UVEB) |
+| The USR-248 Dataset | Underwater Optical Image Super-Resolution | [USR-248](https://irvlab.cs.umn.edu/resources/usr-248-dataset) |
 | The UFO-120 Dataset | Simultaneous Enhancement and Super-Resolution | [UFO-120](https://irvlab.cs.umn.edu/resources/ufo-120-dataset) |
 | Atlantis Dataset  | Underwater Depth Estimation | [Atlantis](https://www.kaggle.com/datasets/zkawfanx/atlantis/data) |
+| USOD10K Dataset  | Underwater Salient Object Detection and Depth Estimation | [USOD10K](https://github.com/LinHong-HIT/USOD10K) |
 
 
 ## Survey
