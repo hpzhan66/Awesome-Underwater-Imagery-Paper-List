@@ -22,8 +22,8 @@ Let's explore the mysterious marine world!
 |:------------------------|:---------------------|:---------------------|
 | Underwater Image Enhancement Benchmark  | Underwater Optical Image Enhancement | [UIEB](https://li-chongyi.github.io/proj_benchmark.html) |
 | Large-Scale Underwater Image Dataset  | Underwater Optical Image Enhancement | [LSUI](https://lintaopeng.github.io/code/) |
-| Enhancing Underwater Visual Perception  | Underwater Optical Image Enhancement | [EUVP](https://irvlab.cs.umn.edu/resources/euvp-dataset) |
-| Realworld-Underwater-Image-Enhancement-RUIE-Benchmark | Underwater Optical Image Enhancement | [RUIE](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark) |
+| Enhancing Underwater Visual Perception Dataset  | Underwater Optical Image Enhancement | [EUVP](https://irvlab.cs.umn.edu/resources/euvp-dataset) |
+| Realworld Underwater Image Enhancement Benchmark | Underwater Optical Image Enhancement | [RUIE](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark) |
 | Underwater Video Enhancement Benchmark  | Underwater Video Enhancement | [UVEB](https://github.com/yzbouc/UVEB) |
 | The USR-248 Dataset | Underwater Optical Image Super-Resolution | [USR-248](https://irvlab.cs.umn.edu/resources/usr-248-dataset) |
 | The UFO-120 Dataset | Simultaneous Enhancement and Super-Resolution | [UFO-120](https://irvlab.cs.umn.edu/resources/ufo-120-dataset) |
@@ -32,7 +32,12 @@ Let's explore the mysterious marine world!
 
 
 ## Survey
-
+- [Signal Processing: Image Communication 20] Diving deeper into underwater image enhancement: A survey
+  [📄 Paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596520301478) | [🌐 Project Page](https://bluestyle97.github.io/dream3d/) | [💻 Code][Coming soon.]
+  TL;DR: A survey on underwater optical image enhancement
+- [ArXiv 24] A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning
+  [📄 Paper](A Comprehensive Survey on Underwater Image Enhancement Based on Deep Learning) | [🌐 Project Page](https://bluestyle97.github.io/dream3d/) | [💻 Code][Coming soon.]
+  TL;DR: A survey on deep-learning based underwater optical image enhancement
 ## Underwater Optical Image
 
 
