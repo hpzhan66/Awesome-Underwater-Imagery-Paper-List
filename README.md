@@ -72,15 +72,63 @@ Let's explore the mysterious marine world!
   
   [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Wavelet-based_Fourier_Information_Interaction_with_Frequency_Diffusion_Adjustment_for_Underwater_CVPR_2024_paper.pdf) | [💻 Code](https://github.com/ChenzhaoNju/WF-Diff)
   
-  TL;DR: WF-Diff leverages frequency domain information with Wavelet-based Fourier information interaction network and Frequency Residual Diffusion Adjustment Module to enhance underwater images, achieving state-of-the-art performance and superior visual quality.
+  TL;DR: WF-Diff leverages frequency domain information with a Wavelet-based Fourier information interaction network and Frequency Residual Diffusion Adjustment Module to enhance underwater images, achieving state-of-the-art performance and superior visual quality.
 
 - [ACMMM 23] Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy
 
   [📄 Paper](https://dl.acm.org/doi/10.1145/3581783.3612378) | [💻 Code](https://github.com/piggy2009/DM_underwater) 
 
   TL;DR: An efficient underwater image enhancement method using a lightweight transformer-based diffusion model with skip and non-uniform sampling strategies, achieving competitive performance and high efficiency.
+
+- [CVPR 23] Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank
+  
+  [📄 Paper](https://arxiv.org/pdf/2303.09101.pdf) | [💻 Code](https://github.com/Huang-ShiRui/Semi-UIR) 
+
+  TL;DR: This work presents a semi-supervised underwater image restoration framework using a mean-teacher approach with a reliable output bank and contrastive regularization to address label scarcity, improving performance over state-of-the-art methods.
+  
+- [TIP 23] U-Shape Transformer for Underwater Image Enhancement
+  
+  [📄 Paper](https://ieeexplore.ieee.org/document/10129222) | [💻 Code](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement) 
+
+  TL;DR: This work introduces a large-scale underwater image dataset and a U-shape Transformer network with novel feature fusion and loss functions, achieving state-of-the-art performance in underwater image enhancement.
+  
+- [AAAI 23] Underwater Ranker: Learn Which Is Better and How to Be Better
+  
+  [📄 Paper](https://ieeexplore.ieee.org/document/10129222) | [🌐 Project Page](https://li-chongyi.github.io/URanker_files/) | [💻 Code](https://github.com/RQ-Wu/UnderwaterRanker) 
+
+  TL;DR: This paper presents URanker, a ranking-based underwater image quality assessment method using a conv-attentional Transformer, which accurately ranks image quality and improves UIE networks when combined with a pre-trained model.
+  
+- [ECCV 22] Uncertainty Inspired Underwater Image Enhancement
+  
+  [📄 Paper](https://arxiv.org/pdf/2207.09689.pdf) | [💻 Code](https://github.com/zhenqifu/PUIE-Net) 
+
+  TL;DR: This paper introduces a probabilistic network for underwater image enhancement that learns enhancement distributions and uses a consensus process to handle reference map ambiguity, achieving competitive performance with state-of-the-art methods.
+  
+- [RAL 20] Fast Underwater Image Enhancement for Improved Visual Perception
+  
+  [📄 Paper](https://ieeexplore.ieee.org/document/9001231) | [💻 Code](https://github.com/xahidbuffon/FUnIE-GAN) 
+
+  TL;DR: This paper presents a real-time underwater image enhancement model using a conditional GAN, trained on the EUVP dataset, improving image quality for object detection, human pose estimation, and saliency prediction in underwater robotics.
+  
+- [TIP 19] An Underwater Image Enhancement Benchmark Dataset and Beyond
+  
+  [📄 Paper](https://ieeexplore.ieee.org/document/8917818) | [🌐 Project Page](https://li-chongyi.github.io/proj_benchmark.html) | [💻 Code](https://github.com/BIGWangYuDong/UWEnhancement) 
+
+  TL;DR: This paper introduces the Underwater Image Enhancement Benchmark (UIEB) with 950 real-world images and presents Water-Net, a baseline network, to evaluate and highlight the strengths and limitations of current underwater image enhancement algorithms.
+  
  
 ### Underwater Optical Image Super-resolution
+- [ICRA 20] Underwater Image Super-Resolution using Deep Residual Multipliers
+  
+  [📄 Paper](https://ieeexplore.ieee.org/document/9197213) | [💻 Code](https://github.com/xahidbuffon/SRDRM) 
+
+  TL;DR: This paper introduces a deep residual network-based model for underwater single image super-resolution using the USR-248 dataset and adversarial training, achieving competitive performance and practical feasibility for autonomous underwater robots.
+
+- [RSS 20] Underwater Image Super-Resolution using Deep Residual Multipliers
+  
+  [📄 Paper](http://www.roboticsproceedings.org/rss16/p018.pdf) | [💻 Code](https://github.com/xahidbuffon/Deep_SESR) 
+
+  TL;DR: This paper presents Deep SESR, a residual network-based model for simultaneous enhancement and super-resolution of underwater images, trained on the UFO-120 dataset, achieving superior performance in real-time applications for underwater robots.
 
 ### Underwater Optical Image Object Detection
 
@@ -90,5 +138,5 @@ Let's explore the mysterious marine world!
 
 ## Underwater Opti-Acoustic Image
 
-## Acknowlegement
+## More Resources
 
