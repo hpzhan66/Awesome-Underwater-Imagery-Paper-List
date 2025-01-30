@@ -132,8 +132,20 @@ Let's explore the mysterious marine world!
 
 ### Underwater Optical Image Object Detection
 
+- [AAAI 24] AMSP-UOD: When vortex convolution and stochastic perturbation meet underwater object detection
+  
+  [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28599) | [💻 Code](https://github.com/zhoujingchun03/AMSP-UOD) 
+
+  TL;DR: This paper proposes AMSP-UOD, a novel underwater object detection framework employing amplitude-modulated perturbations to disrupt noise, a feature association module for enhanced multi-range feature fusion, and aspect-ratio-optimized NMS post-processing, achieving state-of-the-art accuracy and noise immunity on URPC/RUOD benchmarks.
+
+
 ### Underwater Optical Depth Estimation
 
+- [CVPR 24] Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion
+  
+  [📄 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Atlantis_Enabling_Underwater_Depth_Estimation_with_Stable_Diffusion_CVPR_2024_paper.pdf) | [💻 Code](https://github.com/zkawfanx/Atlantis/tree/main) 
+
+  TL;DR: Proposes Depth2Underwater ControlNet + Atlantis dataset using Stable Diffusion to generate photorealistic underwater scenes from terrestrial depth data, enabling supervised training that reduces domain gaps and improves depth estimation performance on underwater images, with applications in image enhancement.
 ## Underwater Acoustic Image
 
 ## Underwater Opti-Acoustic Image
