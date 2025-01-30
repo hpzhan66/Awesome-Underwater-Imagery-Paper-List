@@ -147,8 +147,28 @@ Let's explore the mysterious marine world!
 
   TL;DR: Proposes Depth2Underwater ControlNet + Atlantis dataset using Stable Diffusion to generate photorealistic underwater scenes from terrestrial depth data, enabling supervised training that reduces domain gaps and improves depth estimation performance on underwater images, with applications in image enhancement.
 ## Underwater Acoustic Image
+- [ICRA 23] Neural Implicit Surface Reconstruction using Imaging Sonar
+  
+  [📄 Paper](https://arxiv.org/abs/2209.08221) | [💻 Code](https://github.com/rpl-cmu/neusis) 
+
+  TL;DR: Proposes a neural implicit surface representation with differentiable acoustic renderer for imaging sonar (FLS) 3D reconstruction, enabling high-fidelity geometry recovery from multi-view sonar data while reducing memory overhead compared to point-cloud/grid methods.
 
 ## Underwater Opti-Acoustic Image
+- [SIGGRAPH 24] AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion
+  
+  [📄 Paper](https://dl.acm.org/doi/10.1145/3641519.3657446) | [🌐 Project Page](https://aoneus.github.io/) | [💻 Code](https://github.com/kzhang2/aoneus)
+
+  TL;DR: Introduces AONeuS, a physics-based multimodal neural framework merging high-res RGB and low-res sonar data for accurate underwater 3D surface reconstruction under restricted baselines, outperforming RGB/sonar-only methods in simulations and experiments.
+
+- [PAMI 24] Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion
+  
+  [📄 Paper](https://ieeexplore.ieee.org/document/10685550)
+
+  TL;DR: Enhances 3D-Gaussian Splatting by integrating sonar-derived transient data to resolve depth-axis "missing cone" issues in restricted-baseline scenarios (e.g., underwater), achieving +5 dB PSNR in view synthesis and 60% lower geometry errors via RGB-sonar fusion.
+  
 
 ## More Resources
+[Awesome_Underwater_Datasets] (https://github.com/xahidbuffon/Awesome_Underwater_Datasets)
+
+[Awesome-Underwater-Image-Enhancement] (https://github.com/sevenzero70/Awesome-Underwater-Image-Enhancement)
 
