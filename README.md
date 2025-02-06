@@ -168,7 +168,7 @@ Let's explore the mysterious marine world!
   
 
 ## More Resources
-[Awesome_Underwater_Datasets] (https://github.com/xahidbuffon/Awesome_Underwater_Datasets)
+[Awesome_Underwater_Datasets](https://github.com/xahidbuffon/Awesome_Underwater_Datasets)
 
-[Awesome-Underwater-Image-Enhancement] (https://github.com/sevenzero70/Awesome-Underwater-Image-Enhancement)
+[Awesome-Underwater-Image-Enhancement](https://github.com/sevenzero70/Awesome-Underwater-Image-Enhancement)
 
